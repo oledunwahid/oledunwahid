@@ -4,7 +4,7 @@
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Khaled Makkawirelang</h1>
 <h3 align="center">Front-End Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
+
 <!-- GitHub Stats -->
 <h3 align="left">GitHub Stats 📊</h3>
 <div style="display: flex; justify-content: space-between;">
@@ -20,6 +20,7 @@
   - 👨‍💻 I'm an enthusiastic Front-End Developer.
   - 🌱 Currently learning React.
   - 📫 You can reach me at **makkawirelang@gmail.com**.
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
 </p>
 
 
