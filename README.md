@@ -4,14 +4,15 @@
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Khaled Makkawirelang</h1>
 <h3 align="center">Front-End Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
 <!-- GitHub Stats -->
 <h3 align="left">GitHub Stats 📊</h3>
-<p align="left">
+<div style="display: flex; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oledunwahid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oledunwahid&layout=compact&langs_count=8&theme=algolia">
-</p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
+</div>
+
+
 
 <!-- About Me -->
 <h3 align="left">About Me</h3>
