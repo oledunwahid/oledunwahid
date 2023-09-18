@@ -1,82 +1,75 @@
 <!-- Banner Image -->
 ![Header Image](https://camo.githubusercontent.com/c04834991bd724271632b1aa569fd5ae9564b2c12fdea274f8d577695c8f835d/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958)
 
+
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Khaled Makkawirelang</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a>Khaled Makkawirelang</a></b>
+        </samp>
+</h3>
 
-<!-- GitHub Stats -->
-<h3 align="left">GitHub Stats 📊</h3>
-<div style="display: flex; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oledunwahid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oledunwahid&layout=compact&langs_count=8&theme=algolia">
-</div>
 
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=khaled+makkawirelang">「 Google Me 」</a>
+    <br>
+    「 I am a passionate front-end developer from <b>Indonesia</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 
 <!-- About Me -->
 <h3 align="left">About Me</h3>
 <p align="left">
-  - 👨‍💻 I'm an enthusiastic Front-End Developer.
-  - 🌱 Currently learning React.
-  - 📫 You can reach me at **makkawirelang@gmail.com**.
-  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
+  Passionate about creating intuitive and visually appealing user interfaces that enhance user experiences. Ambitious student on the path to becoming a proficient software engineer with a strong focus on front-end development. My educational journey has been a fusion of rigorous technical training and a deep appreciation for user-centric design. As a front-end developer, I understand the importance of harmonizing aesthetics with functionality to create impactful digital solutions.
 </p>
 
+<!-- GitHub Stats -->
+<h3 align="left">GitHub Stats 📊</h3>
+<div style="display: flex; justify-content: space-between;">
+ <p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oledunwahid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oledunwahid&layout=compact&langs_count=8&theme=algolia">
+</p>
+</div>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=oledunwahid&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+
+<!-- Skills -->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+<!--<h3 align="left">🚀 Skills</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind.css-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+</p>
+-->
 
 <!-- Connect with Me -->
 <h3 align="left">Connect with Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/khaled-makkawirelang/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/khaled-makkawirelang/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/oledunwahid">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/khalmk/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/khalmk/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
-
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="40" height="40"/>
-  </a>
-  <!-- Add more tools and languages here -->
-</p>
-
