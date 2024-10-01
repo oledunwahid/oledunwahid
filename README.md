@@ -1,4 +1,4 @@
-<!-- Introduction --> <h1 align="center">Hi, I'm Khaled Makkawirelang 👋</h1> <p align="center"> <i>Full-Stack Developer | Problem Solver | Innovator</i><br> <a href="https://www.google.com/search?q=khaled+makkawirelang">Google Me</a> | <a href="mailto:makkawirelang@gmail.com">Contact Me</a> </p> <!-- About Me -->
+<!-- Introduction --> <h1 align="center">Hi, I'm Khaled Makkawirelang 👋</h1> <p align="center"> <i>Full-Stack Developer</i><br> <a href="https://www.google.com/search?q=khaled+makkawirelang">Google Me</a> | <a href="mailto:makkawirelang@gmail.com">Contact Me</a> </p> <!-- About Me -->
 ## 🧑‍💻 About Me
 
 I'm a dedicated and adaptable full-stack developer with a passion for crafting intuitive and scalable digital experiences. From enhancing user interfaces to handling back-end challenges, I thrive in delivering efficient solutions that bridge technology and usability. I'm committed to continuous learning and always eager to embrace new technologies.
