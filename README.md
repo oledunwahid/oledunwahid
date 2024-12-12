@@ -13,7 +13,6 @@
 <div align="center">
   
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=oledunwahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/oledunwahid)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oledunwahid&theme=tokyonight&hide_border=true)](https://github.com/oledunwahid)
 
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oledunwahid&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)](https://github.com/oledunwahid)
 [![Contributions](https://github-contributor-stats.vercel.app/api?username=oledunwahid&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)](https://github.com/oledunwahid)
